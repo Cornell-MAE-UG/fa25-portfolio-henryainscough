@@ -15,11 +15,9 @@ The three configurations were:
 
 1. **Parallel flow**
 2. **Counterflow**
-2. **Different Speeds**
+3. **Different Speeds**
 
-The raw data were recorded by hand (see figure below) and are summarized in the table that follows.
-
-![Hand-written temperature measurements](/assets/images/heat-exchanger-data.jpg)
+The raw data were recorded by hand, but here is it written up.
 
 ---
 
@@ -45,8 +43,8 @@ primarily due to the temperature driving force and flow arrangement.
 | Test | Configuration | \(T_{h,in}\) (°C) | \(T_{c,in}\) (°C) | \(T_{h,out}\) (°C) | \(T_{c,out}\) (°C) |
 |------|---------------|-------------------|-------------------|--------------------|--------------------|
 | 1    | Parallel      | 43.3              | 9.3               | 33.0               | 9.3                |
-| 2    | Mixed / cross | 35.4              | 15.6              | 25.6               | 23.8               |
-| 3    | Counterflow   | 35.3              | 13.1              | 26.5               | 21.4               |
+| 2    | Counterflow   | 35.4              | 15.6              | 25.6               | 23.8               |
+| 3    | Slower Speed  | 35.3              | 13.1              | 26.5               | 21.4               |
 
 From these measurements I can look at how much each stream warmed or cooled:
 
@@ -63,12 +61,12 @@ From these measurements I can look at how much each stream warmed or cooled:
   temperature driving force is concentrated near the inlets, and a lot of the heat capacity on the cold
   side is unused.
 
-- **Test 2 – Mixed / cross-flow:**  
+- **Test 2 – Counterflow:**  
   Both streams change temperature significantly (≈ 10 °C on the hot side and ≈ 8 °C on the cold side),
   which indicates that the configuration improves the contact between the streams compared with simple
   parallel flow.
 
-- **Test 3 – Counterflow:**  
+- **Test 3 – Slower Speed:**  
   The hot and cold streams both undergo ~9 °C temperature changes. Counterflow arrangements are known to
   give the largest log-mean temperature difference, so this configuration is expected to be more effective
   at using the available heat transfer area.
