@@ -1,0 +1,14 @@
+layout: project
+title: Spotted Lanterfly Project
+description: Ongoing Mechanical Design Project
+technologies: [N/A]
+image: /assets/images/SFL.jpeg
+---
+
+The project is an engineering design challenge where the team acts hired by vineyard and agricultural partners to solve a real farming problem: spotted lanternflies damaging grape crops. Current control methods rely heavily on pesticides, which can contaminate grapes and reduce harvest quality, while washing harvested grapes is impractical because many are crushed during mechanical harvesting 
+
+Our goal is to develop a non-chemical pest control system that protects grape quality and maintains harvesting efficiency. To do this, we must propose and justify a device or ecological intervention (such as a mechanical trap or biological control), evaluate safety and feasibility, and design a plan for testing a prototype. Ultimately, the project combines environmental impact, agricultural practicality, and engineering design to create a realisti and deployable solution for vineyards.
+
+The first step of this project is the Client Pitch.
+The team's pitch can be found here:
+[Download my Solution]({{ "/assets/Guardians_of_the_Grapevine_Client_Pitch.pdf" | relative_url }}) in PDF
