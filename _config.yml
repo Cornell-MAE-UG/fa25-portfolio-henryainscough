@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Henry Ainscough
 description              : Henry Ainscough - Projects and CV 
-baseurl                  : "fa25-portfolio-henryainscough"
+baseurl                  : "/fa25-portfolio-henryainscough"
 
 # Theme and Style
 theme: jekyll-theme-cayman
