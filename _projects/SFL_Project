@@ -8,23 +8,20 @@ image: /assets/images/Vibrazap.png
 
 In our Mechanical Design class, we were tasked with researching, designing and manufacturing a deivce to aid vineyard owners in the battle agains the invasive species of Spotted Lantern FLies. Current control methods rely heavily on pesticides, which can contaminate grapes and reduce harvest quality. Washing harvested grapes is impractical because many are crushed during mechanical harvesting.
 <br>
-
-
+<br>
 My group and I decided to explore the possibilities of attracting and eliminating the flies. 
 <br>
-
-
-Our goal is to develop a non-chemical pest control system that protects grape quality and maintains harvesting efficiency. To do this, we must propose and justify a device or ecological intervention (such as a mechanical trap or biological control), evaluate safety and feasibility, and design a plan for testing a prototype. Ultimately, the project combines environmental impact, agricultural practicality, and engineering design to create a realistic and deployable solution for vineyards.
 <br>
+Our goal is to develop a non-chemical pest control system that protects grape quality and maintains harvesting efficiency. To do this, we must propose and justify a device or ecological intervention (such as a mechanical trap or biological control), evaluate safety and feasibility, and design a plan for testing a prototype. Ultimately, the project combines environmental impact, agricultural practicality, and engineering design to create a realistic and deployable solution for vineyards.
 
-
+---
+<br>
+<br>
 The first milestone of this project is the <a href="{{ "/SLF-client-pitch/" | relative_url }}">Client Pitch</a>
 <br>
-
-
+<br>
 The second milestone of this project is the <a href="{{ "/SLF-functional-prototype/" | relative_url }}">Functional Prototype</a>
 <br>
-
-The third and final milestone of this project is the <a href="{{ "/SLF-client-report/" | relative_url }}">Client Report</a>
 <br>
+The third and final milestone of this project is the <a href="{{ "/SLF-client-report/" | relative_url }}">Client Report</a>
 
