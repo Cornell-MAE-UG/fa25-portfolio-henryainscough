@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Client Pitch
+title: Client Report
 permalink: /SLF-client-report/
 ---

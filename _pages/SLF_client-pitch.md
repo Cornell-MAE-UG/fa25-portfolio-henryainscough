@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Client Pitch
-permalink: /SLF_client-pitch/
+permalink: /SLF-client-pitch/
 ---
 ## Client Pitch 
 

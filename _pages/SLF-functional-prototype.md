@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Client Pitch
+title: Functional Prototype
 permalink: /SLF-functional-prototype/
 ---
 ## Functional Prototype 
