@@ -11,8 +11,6 @@ permalink: /SLF-client-pitch/
 
 **Clients:** Cornell CALS Extension / E&J Gallo Winery / National Grape
 
-[Download the full Client Pitch]({{ "/assets/Guardians-of-the-Grapevine-Client-Pitch.pdf" | relative_url }}) in PDF format.
-
 ## Problem Statement
 
 Commercial vineyards in the NY region are struggling with spotted lanternfly infestations that reduce fruit quality and weaken vines. Pesticide use risks contaminating grapes, and fruit washing is impractical since around 50% of mechanically harvested grapes turn into "grape soup" which reduces harvest yield. Growers need a non-chemical control method that protects harvest efficiency and fruit quality.
