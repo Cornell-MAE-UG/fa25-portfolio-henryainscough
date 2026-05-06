@@ -23,9 +23,9 @@ Aspiring engineering student with a strong foundation in mechanical engineering.
   Graduation: May, 2028
 
 - **[Radley College]**  
-  *High School Diploma*
-  GCSEs: 999999999998
-  A-Levels: A*AAB
+  *High School Diploma*  
+  GCSEs: 999999999998  
+  A-Levels: A*AAB  
   Graduation: [July, 2024]
 
 ---
