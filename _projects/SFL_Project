@@ -13,8 +13,6 @@ My group and I decided to explore the possibilities of attracting and eliminatin
 <br>
 <br>
 Our goal is to develop a non-chemical pest control system that protects grape quality and maintains harvesting efficiency. To do this, we must propose and justify a device or ecological intervention (such as a mechanical trap or biological control), evaluate safety and feasibility, and design a plan for testing a prototype. Ultimately, the project combines environmental impact, agricultural practicality, and engineering design to create a realistic and deployable solution for vineyards.
-
----
 <br>
 <br>
 The first milestone of this project is the <a href="{{ "/SLF-client-pitch/" | relative_url }}">Client Pitch</a>
@@ -24,4 +22,6 @@ The second milestone of this project is the <a href="{{ "/SLF-functional-prototy
 <br>
 <br>
 The third and final milestone of this project is the <a href="{{ "/SLF-client-report/" | relative_url }}">Client Report</a>
+
+test
 
