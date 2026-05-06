@@ -6,6 +6,7 @@ permalink: /SLF-client-report/
 ## Client Report
 
 [Download my Client Report]({{ "/assets/slf-client-report.pdf" | relative_url }}) in PDF format.
+[Download my Poster]({{ "/assets/slf-poster.pdf" | relative_url }}) in PDF format.
 
 **Team:** Guardians of the Grapevine
 
