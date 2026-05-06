@@ -6,12 +6,13 @@ technologies: [Autodesk Fusion 360]
 image: /assets/images/Vibrazap.png
 ---
 
-In our Mechanical Design class, we were tasked with researching, designing and manufacturing a deivce to aid vineyard owners in the battle agains the invasive species of Spotted Lantern FLies. My group and I decided to explore the possibilities of attracting and eliminating the flies.
+In our Mechanical Design class, we were tasked with researching, designing and manufacturing a deivce to aid vineyard owners in the battle agains the invasive species of Spotted Lantern FLies. My group and I decided to explore the possibilities of attracting and eliminating the flies. Below are the links to the following reports:
 
-My Client Pitch can be found [here]({{ "/SLF-client-pitch/" | relative_url }}).
+<a href="{{ "/SLF-client-pitch/" | relative_url }}">Client Pitch</a>
 
-My Functional Prototype Report can be found [here]({{ "/SLF-functional-prototype/" | relative_url }}).
+<a href="{{ "/SLF-functional-prototype//" | relative_url }}">Functional Prototype Report</a>
 
-My Client Report can be found [here]({{ "/SLF-client-report/" | relative_url }}).
+<a href="{{ "/SLF-client-report/" | relative_url }}">Client Report</a>
+
 
 
