@@ -5,5 +5,5 @@ permalink: /SLF-functional-prototype/
 ---
 ## Functional Prototype 
 
-[Download my functional prototype report]({{ "/assets/slf-func-prototype.pdf" | relative_url }}) in PDF format.
+[Download my functional prototype report]({{ "/assets/slf-func-prototype-report.pdf" | relative_url }}) in PDF format.
 
