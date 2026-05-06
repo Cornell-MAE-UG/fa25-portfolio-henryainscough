@@ -24,6 +24,8 @@ Aspiring engineering student with a strong foundation in mechanical engineering.
 
 - **[Radley College]**  
   *High School Diploma*
+  GCSEs: 999999999998
+  A-Levels: A*AAB
   Graduation: [July, 2024]
 
 ---
@@ -37,10 +39,10 @@ Aspiring engineering student with a strong foundation in mechanical engineering.
 
 #### Projects
 - **[Heat Exchanger]**:  
-  *[We examined a heat exchanger]* 
+  *[We examined a heat exchanger and how different types of flows into and out of the heat exchanger affect temperature changes in water. From our findings, I created a report to show what we observed]* 
 
 - **[Open Design Project]**:  
-  *[Short Description]*    
+  *[We researched, designed and manufactured a device that would help vineyards across the State of New York in the fight against the invasive species of Spotted Lantern Flies]*    
 
 ---
 
@@ -59,8 +61,7 @@ Aspiring engineering student with a strong foundation in mechanical engineering.
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- President of Cornell Club Rugby    
 
 ---
 
