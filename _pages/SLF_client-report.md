@@ -7,6 +7,8 @@ permalink: /SLF-client-report/
 
 [Download my Client Report]({{ "/assets/slf-client-report.pdf" | relative_url }}) in PDF format.
 
+**Team:** Guardians of the Grapevine
+
 **Team Members:** Ash Puri, Henry Ainscough, James Larrabee, Katherine Krishtopa, Skylar Walcoff
 
 **Clients:** Cornell CALS Extension / E&J Gallo Winery / National Grape

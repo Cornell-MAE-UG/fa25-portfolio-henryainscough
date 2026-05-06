@@ -9,6 +9,8 @@ permalink: /SLF-functional-prototype/
 
 **Team:** Guardians of the Grapevine
 
+**Team Members:** Ash Puri, Henry Ainscough, James Larrabee, Katherine Krishtopa, Skylar Walcoff
+
 **Clients:** Cornell CALS Extension / E&J Gallo Winery / National Grape
 
 ## Design Questions
